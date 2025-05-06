@@ -1,0 +1,12 @@
+torch>=2.0.0
+ultralytics>=8.0.0
+numpy>=1.21.0
+cvxpy>=1.2.0
+pytest>=7.0.0
+ros2-bag>=0.9.0
+rclpy>=1.0.0
+sensor_msgs>=4.2.0
+nav_msgs>=4.2.0
+geometry_msgs>=4.2.0
+vision_msgs>=4.2.0
+tf2_ros>=0.25.0 
